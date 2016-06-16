@@ -1,0 +1,1 @@
+extern const int SONG = 525;
